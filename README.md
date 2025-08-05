@@ -61,7 +61,7 @@ Index.html
             <p><strong>Step 1:</strong> Message us on WhatsApp with your CDL</p>
             <p><strong>Step 2:</strong> Get verified and choose your plan</p>
             <p><strong>Step 3:</strong> Start receiving professional updates</p>
-            <p><strong>WhatsApp:</strong> [YOUR WHATSAPP NUMBER]</p>
+            <p><strong>WhatsApp:</strong> [+1-779-301-4330]</p>
             <p><strong>Email:</strong> info@smarttrucker.com</p>
         </div>
     </div>
